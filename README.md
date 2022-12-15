@@ -8,3 +8,12 @@
 ---
 ### _Email:_ benjaminc8190
 ---
+### Schedule:
+* SEP
+* Algebra 2
+* Spanish
+* Lunch
+* Global History
+* Chemistry
+* BHP
+* PE
