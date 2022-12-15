@@ -1,10 +1,10 @@
 # Benjamin
 #### School: Hstat
 ---
-### _Top 3 Favorite Subjects:_
+### _Top 3 Favorite Classes:_
 1. **Physics**
 2. **Algebra**
-3. **History**
+3. **SEP/History(tie)**
 ---
 ### _Email:_ benjaminc8190
 ### [Visit my website!](https://benjaminc8190.github.io/)
